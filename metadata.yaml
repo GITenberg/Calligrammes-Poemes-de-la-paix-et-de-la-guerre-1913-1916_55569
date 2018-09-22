@@ -1,5 +1,8 @@
 _repo: Calligrammes-Poemes-de-la-paix-et-de-la-guerre-1913-1916_55569
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55569-h/images/cover.jpg
 creator:
   author:
     agent_name: Apollinaire, Guillaume
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55569#Calligrammes-Poemes-de-la-paix-et-de-la-guerre-1913-1916
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2017-09-17'
 gutenberg_type: Text
